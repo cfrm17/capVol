@@ -86,4 +86,4 @@ After (α, β, ρ, υ) calibrated, one can generate SABR volatility (cap volatil
 Repeat the above process for each term and tenor.
 
 You can find more details at
-https://finpricing.com/lib/FxVolIntroduction.html
+https://finpricing.com/faq.html
